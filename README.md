@@ -1,3 +1,9 @@
+
+
+
+![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
+
+
 # 💫 About Me:
 🔭 **I’m currently in College :**  <br>Versatile Programmer and Web developer adept at crafting robust solutions. 🚀<br><br>👯 **I’m looking for some Collabration in Real World Projects :**  <br>Fullstack projects using MERN <br><br>🌱 **I’m currently learning :**  <br>Data Sturture And Algorithms and Typscript.<br><br>💬 **Ask me about:**  <br>DSA, JavaScript, React, Nextjs, Node.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love Passionate Coders and Consistent Learner`s 👀.
 
