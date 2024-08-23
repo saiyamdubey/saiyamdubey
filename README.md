@@ -4,10 +4,22 @@
 <img src="https://api.visitorbadge.io/api/visitors?path=https://github.com/saiyamdubey&label=VISITORS&labelColor=%23000&countColor=%230A0209" />
 </div>
 
-## 💫 About Me: 
+# 💫 About Me
 
-<br>
-🔭 **I’m currently in College :**  <br>Versatile Programmer and Web developer adept at crafting robust solutions. 🚀<br><br>👯 **I’m looking for some Collabration in Real World Projects :**  <br>Fullstack projects using MERN <br><br>🌱 **I’m currently learning :**  <br>Data Sturture And Algorithms and Typscript.<br><br>💬 **Ask me about:**  <br>DSA, JavaScript, React, Nextjs, Node.js, and any general software development questions.<br><br>⚡ **Fun fact:**  <br>I love Passionate Coders and Consistent Learner`s 👀.
+🔭 **Currently in College:**  
+Versatile Programmer and Web Developer, adept at crafting robust solutions. 🚀
+
+👯 **Looking to Collaborate on Real-World Projects:**  
+Fullstack projects using the **MERN stack**.
+
+🌱 **Currently Learning:**  
+**Data Structures & Algorithms** and **TypeScript**.
+
+💬 **Ask Me About:**  
+**DSA, JavaScript, React, Next.js, Node.js,** and any general software development questions.
+
+⚡ **Fun Fact:**  
+I'm passionate about coding and love being a consistent learner! 👀
 
 
 ## 🌐 Socials:<br>
